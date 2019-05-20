@@ -1,1 +1,3 @@
 *.user
+src/debug/
+src/release/
